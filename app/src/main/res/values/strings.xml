@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DateilsApp</string>
+
+    <string name="st1">Enter Your Name</string>
+    <string name="st2">Enter Your ID</string>
+    <string name="st3">Enter Your Age</string>
+
+    <string name="st21">
+
+        Mehedi
+    </string>
+</resources>
